@@ -1,6 +1,6 @@
 # Welcome to cozaro page!
 
-- This github pages of cozaro!
+![cozaro](cozaro_v0.jpg){: width="30%" height="30%"}
 
 # What does 'cozaro' mean?
 
